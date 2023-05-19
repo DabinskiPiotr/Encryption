@@ -1,0 +1,3 @@
+public enum CipherType {
+    CAESAR_CIPHER, KEYED_CAESAR_CIPHER, VIGENERE_CIPHER
+}
